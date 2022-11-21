@@ -1,5 +1,4 @@
-# Serverless-NodeJS-document-scanner-app-using-AWS-Lambda-and-AWS-Amplify
-# aws-serverless
+
 
 Project:
 https://github.com/amazon-archives/aws-serverless-document-scanner
