@@ -1,9 +1,4 @@
 
-# AQW
-Project:
-https://github.com/amazon-archives/aws-serverless-document-scanner
-- https://aws.amazon.com/blogs/compute/building-a-serverless-document-scanner-using-amazon-textract-and-aws-amplify/
-- https://www.youtube.com/watch?v=kA2ZYD4zgEo
 
 # Building a serverless document scanner using Amazon Textract and AWS Amplify
 This guide demonstrates creating and deploying a production ready document scanning application. It allows users to manage projects, upload images, and generate a PDF from detected text. The sample can be used as a template for building expense tracking applications, handling forms and legal documents, or for digitizing books and notes.
