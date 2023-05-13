@@ -39,7 +39,7 @@ amplify configure
 ```
 Clone the project from GitHub.
 ```
-git clone https://github.com/aws-samples/aws-serverless-document-scanner.git
+git clone <URL>
 ```
 Navigate to the amplify-frontend directory and initialize the project using the Amplify CLI command. Follow the guided process to completion.
 ```
